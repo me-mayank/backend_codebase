@@ -1,0 +1,1 @@
+This is a simple repository which was made by Mayank Tripathi when learning backend development in year 2025 
